@@ -6,6 +6,7 @@ This application Staveník (hereinafter referred to as the "Application") is dev
 # 1. Data Collection and Use
 The Application collects specific data only when you use the attendance features:
 Location Data: When you click "Start Attendance" (or Stop Attendance), the Application captures your current geographic coordinates. Also when you borrow or return tools outside of storage, the Application captures your current geographic coordinates.
+Names are used only for creating a users profile. And you can upload tool's photos to better identify the tools.
 Purpose: This data is used solely for verifying the place of work and place where tools were borrowed for internal attendance records.
 Storage: This information is securely stored in our database hosted by Supabase.
 # 2. Access to Device Features
