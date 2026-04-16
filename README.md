@@ -24,5 +24,9 @@ Users have the right to request access to their stored data or request its delet
 # 6. Contact Us
 For any questions regarding your data, contact us at: opela.jan.jan@gmail.com
 
-Last updated: April 6, 2026
+# 7. Question and Support
+For any questions or if you need support, contact us at: opela.jan.jan@gmail.com
+
+
+Last updated: April 16, 2026
 
